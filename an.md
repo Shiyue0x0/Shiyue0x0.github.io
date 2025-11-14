@@ -1,3 +1,0 @@
-Announcer
-
-Docs
